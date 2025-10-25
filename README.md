@@ -2,6 +2,13 @@
 
 Um sistema completo para gerenciamento de quartos e reservas de hotel, desenvolvido em Java 17 com Spring Boot.
 
+## 👨‍👨‍👦‍👦 Grupo
+- Caio Freitas - RM553190
+- Caio Hideki - RM553630
+- Jorge Booz - RM552700
+- Mateus Tibão - RM553267
+- Lana Andrade - RM552596
+
 ## 📋 Funcionalidades
 
 ### 🏠 Gestão de Quartos
