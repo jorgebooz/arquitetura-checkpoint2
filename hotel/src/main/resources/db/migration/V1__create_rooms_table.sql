@@ -1,0 +1,8 @@
+CREATE TABLE rooms (
+    id BIGSERIAL PRIMARY KEY,
+    number INTEGER NOT NULL UNIQUE,
+    type VARCHAR(20) NOT NULL,
+    capacity INTEGER NOT NULL,
+    daily_rate DECIMAL(10,2) NOT NULL,
+    status VARCHAR(10) NOT NULL
+);
